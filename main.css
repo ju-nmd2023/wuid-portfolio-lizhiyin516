@@ -4,7 +4,9 @@
 .bg{
     background-image: url("images/background.jpg");
     background-size: 100% 100%;
-   background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    height:100vh;
+
 }
 
 .head{
@@ -53,4 +55,10 @@ li:hover {
 
 .last {
    text-align: center;
+}
+
+.contact{
+    font-size: medium;
+    color:#0e2c25;
+
 }
