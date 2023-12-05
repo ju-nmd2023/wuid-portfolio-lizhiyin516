@@ -6,6 +6,9 @@
             anima.classList.remove("animation");//delet the former one and add the second time for pic action
             anima.offsetHeight = anima.offsetHeight; // force reflow
             anima.classList.add("animation");//add the animation 
+
+            var communication = document.getElementById("communication");
+            communication.value="";
         });
  
     
