@@ -8,7 +8,7 @@
             anima.classList.add("animation");//add the animation 
 
             var communication = document.getElementById("communication");
-            communication.value="";
+            communication.value="";//Dingxie helped with this
         });
  
     
